@@ -215,7 +215,7 @@ public class Game
     }
 
     }
-
+//test
     private void printLocationInfo() {
         System.out.println(currentRoom.getLongDescription());
     }
